@@ -2,10 +2,10 @@ class this1{
 int rollno;  
 String name;  
 float fee;  
-this1(int rollno,String name,float fee){  
-rollno = rollno;  
-name = name;  
-fee = fee;  
+this1(int r,String n,float f){  
+rollno = r;  
+name = n;  
+fee = f;  
 }  
 void display(){System.out.println(rollno+" "+name+" "+fee);}  
 }  
