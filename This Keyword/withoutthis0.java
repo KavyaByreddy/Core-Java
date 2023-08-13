@@ -1,3 +1,5 @@
+//Here we get null and 0 as values this is the problem we have to use this keyword to rectify this problem
+//Refers current class instance variable
 class this2{  
 int rollno;  
 String name;  
