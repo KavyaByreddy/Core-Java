@@ -1,3 +1,7 @@
+
+
+...
+...
 //One way is by changing no. of arguments
 class Adding{  
 static int add(int a,int b){return a+b;}  
