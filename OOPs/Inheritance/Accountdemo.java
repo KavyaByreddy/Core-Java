@@ -17,13 +17,10 @@ public class Accountdemo{
                 a1.deposit_Amount(10);
                 int bal =a1.get_Bal();
                 System.out.println(bal);
-
                 Account a2=new Account(); //Priya
-
                 a2.open_Acc();
                 a2.deposit_Amount(20000);
                 a2.deposit_Amount(2);
-                
                 System.out.println(a2.get_Bal());
 
     }
